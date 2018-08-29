@@ -1,0 +1,10 @@
+                
+#                 print go[go_id3]
+#                 print go[go_id4]
+#                 result=lin_sim(go_id3, go_id4, go, termcounts)
+#                 if result ==  None:
+#                     result=0
+           
+#                 result=0
+#             col.append(result)
+#         spamwriter.writerow(col)
